@@ -1,0 +1,1 @@
+import{f as e,b as s,u as t,o as a}from"./app-l7-T_QVc.js";const o="/build/assets/portada-BpJ8rKAS.webp",c={class:"contenido-principal mt-16"},n=["src"],l={__name:"landing-hero",setup(r){return(p,_)=>(a(),e("div",c,[s("img",{src:t(o),alt:""},null,8,n)]))}};export{l as default};
